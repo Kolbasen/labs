@@ -10,7 +10,7 @@ type healthResponse struct {
 	Time string `json:"time"`
 }
 
-// Revert commit
+// Edit edit comment comment
 
 // GetTime - simple func to get current time in RFC3339 format
 func GetTime(w http.ResponseWriter, r *http.Request) {
